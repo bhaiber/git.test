@@ -13,5 +13,6 @@ public class Main {
 	public void execute() {
 		System.out.println(new Test1().getValue());
 		System.out.println(new Test2().getValue());
+		System.out.println(new Test3().getValue());
 	}
 }
