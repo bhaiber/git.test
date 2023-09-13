@@ -1,5 +1,7 @@
 package es.unosofta;
 
+import es.unosofta.feature.Feature7;
+
 public class Test2 {
 
 	public Test2() {
@@ -7,6 +9,6 @@ public class Test2 {
 	}
 
 	public String getValue() {
-		return "Test2: v4 bugfix; feature(5) add; bug1";
+		return "Test2: v4 bugfix; feature(5) add; bug1;"+Feature7.getOutput();
 	}
 }
