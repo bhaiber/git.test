@@ -7,6 +7,6 @@ public class Test2 {
 	}
 
 	public String getValue() {
-		return "Test2: v4 bugfix";
+		return "Test2: v4 bugfix; feature(5) add;";
 	}
 }
