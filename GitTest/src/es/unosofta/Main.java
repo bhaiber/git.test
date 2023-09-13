@@ -21,6 +21,7 @@ public class Main {
 		System.out.println(Feature6.getOutput());
 		System.out.println(Feature7.getOutput());
 		System.err.println("bugfix (v9)");
-		System.err.println("Release v9");
+		System.out.println("Release v9");
+		System.out.println("Release v10_beta");
 	}
 }
