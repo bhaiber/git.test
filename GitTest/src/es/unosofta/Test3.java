@@ -7,6 +7,6 @@ public class Test3 {
 	}
 
 	public String getValue() {
-		return "Test3: v4, Erweiterung";
+		return "Test3: v4, Erweiterung; new feature(6)";
 	}
 }
