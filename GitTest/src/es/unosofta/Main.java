@@ -15,5 +15,6 @@ public class Main {
 		System.out.println(new Test2().getValue());
 		System.out.println(new Test3().getValue());
 		System.err.println("bugfix during v8");
+		System.out.println("Feature7 voll implemented on v8");
 	}
 }
