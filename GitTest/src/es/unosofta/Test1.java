@@ -7,6 +7,6 @@ public class Test1 {
 	}
 
 	public String getValue() {
-		return "Test1: v5: new feature(5)";
+		return "Test1: v5: new feature(5),new feature(6)";
 	}
 }
