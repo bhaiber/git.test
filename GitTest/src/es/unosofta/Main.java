@@ -23,5 +23,6 @@ public class Main {
 		System.err.println("bugfix (v9)");
 		System.out.println("Release v9");
 		System.out.println("Release v10_beta");
+		System.out.println("Release v10");
 	}
 }
