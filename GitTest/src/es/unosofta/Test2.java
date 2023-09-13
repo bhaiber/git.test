@@ -9,6 +9,6 @@ public class Test2 {
 	}
 
 	public String getValue() {
-		return "Test2: v8 bugfix; feature(5) add; bug1;"+Feature7.getOutput();
+		return "Test2: v9";
 	}
 }

@@ -6,6 +6,6 @@ public class Feature6 {
 		// TODO Auto-generated constructor stub
 	}
 	public static String getOutput() {
-		return "Feature6:v6; advance on v9;";
+		return "Feature6:v9";
 	}
 }
