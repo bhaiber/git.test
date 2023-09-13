@@ -1,5 +1,7 @@
 package es.unosofta;
 
+import es.unosofta.feature.Feature6;
+
 public class Test3 {
 
 	public Test3() {
@@ -7,6 +9,6 @@ public class Test3 {
 	}
 
 	public String getValue() {
-		return "Test3: v4, Erweiterung; new feature(6)";
+		return "Test3: v4, Erweiterung; "+Feature6.getOutput();
 	}
 }
