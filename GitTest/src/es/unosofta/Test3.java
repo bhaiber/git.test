@@ -7,6 +7,6 @@ public class Test3 {
 	}
 
 	public String getValue() {
-		return "Test3: v3";
+		return "Test3: v4";
 	}
 }
