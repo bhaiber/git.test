@@ -9,6 +9,6 @@ public class Test3 {
 	}
 
 	public String getValue() {
-		return "Test3: v4, Erweiterung; "+Feature6.getOutput();
+		return "Test3: v9 ";
 	}
 }
