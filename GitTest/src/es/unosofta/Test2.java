@@ -1,7 +1,5 @@
 package es.unosofta;
 
-import es.unosofta.feature.Feature7;
-
 public class Test2 {
 
 	public Test2() {

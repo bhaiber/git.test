@@ -27,5 +27,6 @@ public class Main {
 		System.out.println("Release v11_beta");
 		System.out.println("Release v11");
 		System.out.println("Release v12_beta");
+		System.out.println("Release v12");
 	}
 }
